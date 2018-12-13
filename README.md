@@ -1,2 +1,2 @@
-# c4model-visio-stencil
-Visio stencil with C4 Model shapes
+# C4 Model Visio Stencil
+Visio stencil with shapes for creating C4 Model diagrams.
